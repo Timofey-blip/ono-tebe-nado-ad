@@ -14,7 +14,6 @@
     gap: 36.58px;
 }
 
-.header__box-navigation {}
 
 .header__box-navigation-list {
     display: flex;
@@ -39,7 +38,6 @@
     transform: translate(0px, 2px);
 }
 
-.header__box-navigation-list-item--active {}
 
 .header__box-navigation-list-item-text {
     position: relative;
@@ -93,7 +91,6 @@
     max-width: 214px;
 }
 
-.header__contacts-list-item {}
 
 .header__contacts-list-item-link {
     font-family: "Raleway", sans-serif;
@@ -115,7 +112,6 @@
     }
 }
 
-.header__contacts-list-item-text {}
 
 .preview {
     display: flex;
@@ -268,7 +264,7 @@
     background-image: url(../images/card-lot-03.jpg);
 }
 
-.lots__list-item-link {}
+
 
 .lots__list-item-link-article {
     position: relative;
@@ -417,7 +413,7 @@
     flex-direction: column;
 }
 
-.footer__contacts-list-item {}
+
 
 .footer__contacts-list-item-link {
     font-family: "Raleway", sans-serif;
@@ -439,14 +435,14 @@
     color: #000;
 }
 
-.footer__navigation {}
+
 .footer__navigation-list {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.footer__navigation-list-item {}
+
 
 .footer__navigation-list-item-link {
     font-family: "Raleway", sans-serif;
@@ -464,7 +460,7 @@
     text-decoration: none;
 }
 
-.footer__social {}
+
 
 .footer__social-list {
     display: flex;
@@ -473,7 +469,7 @@
     gap: 48px;
 }
 
-.footer__social-list-item {}
+
 
 .footer__social-list-item-link {
     display: flex;
